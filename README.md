@@ -1,6 +1,6 @@
-# Assignment experiment6#
+# Assignment experiment6
 
-#Experiment 1#
+#Experiment 1
 Creating a Modell-View-Controller Web Applications
 the realization of this tutorial was easy to do but to achieve trough the codes thaht could be copied in the tutorial was more dificult.
 the IDE used in my tutorials was intelij but i wanted to use Visual studio code but since the tutorial recomended use intelij i decide to use this one.
@@ -12,9 +12,12 @@ I did but i get the same error mesage whe i ran the code of the aplication.
 Then i make sure that i had the correct java version. i did but i get the same error. 
 After i worked with the pom.xml fil.to fine a solution and i found the solution.
 Before <dependecies> i added the section <properties> with the amve.compiler. this can see better in my code and git repositori added to this readme fil.
+After executing the code, I went to the next step and it was to execute the JAR files.
+I did this step but i dont get the message that the tutorial showed.
 
 
-#Experiment 2#
+#Experiment 2
+
 
 
 
