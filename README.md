@@ -1,6 +1,7 @@
 # Assignment experiment6
 
 #Experiment 1
+
 Creating a Modell-View-Controller Web Applications
 the realization of this tutorial was easy to do but to achieve trough the codes thaht could be copied in the tutorial was more dificult.
 the IDE used in my tutorials was intelij but i wanted to use Visual studio code but since the tutorial recomended use intelij i decide to use this one.
@@ -17,6 +18,17 @@ I did this step but i dont get the message that the tutorial showed.
 
 
 #Experiment 2
+
+#React tutorial.
+The realization of this tutorial wasn't easy because before the create of the app, i had to install a series of programs like node and react package.
+the tutorial is large and takes time but the most dificult was to create the app in visual studio code and try to conect with github. 
+i read on the web abpout how i could do this and using git bash i could download react package. 
+
+When I did the tutorial I found a problem that has more to do with VSC. the game fails to open on the localhost page. I have tried to solve this problem but have not yet been able to solve it until the moment of submitting this report.
+i think have to do with my firewall and antivirus.
+the code is added to this raport.
+
+
 
 
 
